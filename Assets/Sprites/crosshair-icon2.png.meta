@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 3294148e27fe2a94c85fb9ed2db67403
+guid: b7a284be863c823468fec7cef329d15b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 687054913734075021
-    second: crosshair-icon_0
+      213: 4740121557271593040
+    second: crosshair-icon2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -75,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: crosshair-icon_0
+      name: crosshair-icon2_0
       rect:
         serializedVersion: 2
-        x: 59
-        y: 59
-        width: 482
-        height: 482
+        x: 0
+        y: 0
+        width: 700
+        height: 700
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d826e4acdc8e88900800000000000000
-      internalID: 687054913734075021
+      spriteID: 050485d217b48c140800000000000000
+      internalID: 4740121557271593040
       vertices: []
       indices: 
       edges: []
@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      crosshair-icon2_0: 4740121557271593040
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
